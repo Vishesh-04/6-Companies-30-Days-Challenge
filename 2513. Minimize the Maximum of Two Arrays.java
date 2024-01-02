@@ -35,5 +35,6 @@ class Minimize_the_Maximum_of_Two_arrays {
         int u2 = sc.nextInt();
         int res = minimizeSet(d1,d2,u1,u2);
         System.out.println("The Result is :- "+res);
+        sc.close();
     }
 }
